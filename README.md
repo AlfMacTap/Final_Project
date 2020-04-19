@@ -20,19 +20,19 @@ Here, I use weather data (i.e. precipitation) to build a model that predicts cha
 
 - Necessary packages to use this code are:
   
-    •	pandas;
+      •	pandas;
 
-    •	numpy;
+      •	numpy;
 
-    •	matplotlib.pyplot;
+      •	matplotlib.pyplot;
 
-    •	PIL;
+      •	PIL;
 
-    •	sklearn.model_selection;
+      •	sklearn.model_selection;
 
-    •	sklearn.preprocessing;
+       •	sklearn.preprocessing;
 
-    •	scipy.
+       •	scipy.
 
 
 
